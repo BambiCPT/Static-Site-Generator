@@ -1,32 +1,33 @@
-# Tolkien Fan Club
+# LoreForge
 
-**I like Tolkien**. Read my [first post here](/majesty)
+**Tales from Azeroth**. Read my [first post here](/majesty)
 
-> All that is gold does not glitter
+> "No king rules forever, my son." - Terenas Menethil II
 
-## Reasons I like Tolkien
+## Why Warcraft's Lore Stands the Test of Time
 
-* You can spend years studying the legendarium and still not understand its depths
-* It can be enjoyed by children and adults alike
-* Disney *didn't ruin it*
-* It created an entirely new genre of fantasy
+* Expansive storytelling that spans millenia.
+* Iconic heroes, villains, and morally grey figures.
+* A deep world-building culture.
 
-## My favorite characters (in order)
+## Notable Figures of Azeroth
 
-1. Gandalf
-2. Bilbo
-3. Sam
-4. Glorfindel
-5. Galadriel
-6. Elrond
-7. Thorin
-8. Sauron
-9. Aragorn
+1. Arthas Menethil - The Fallen Price
+2. Bolvar Fordragon - Jailer of the Damned
+3. Deathwing - The Destroyer
+4. Tirion Fordring - Highlord of the Argent Crusade
+5. Uther - The Lightbringer
+6. Malfurion Stormrage - First of the Druids
+7. Turalyon - High Exarch 
+8. Thrall - Earth-Warder
+9. Kel'Thuzad - Arch-Lich
 
+## **Azerothian Code Language**
 Here's what `elflang` looks like (the perfect coding language):
 
 ```
-func main(){
-    fmt.Println("Hello, World!")
+if (mana < 25){
+    use("Mana Potion");
 }
+cast("Frostbolt");
 ```
