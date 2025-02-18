@@ -1,5 +1,5 @@
 # Static Site Generator
-A Python-based Static Site Generator inspired by tools like *Hugo* and *Jekyll*. This project utilizes **recursion** and **Object-Oriented Programming** (OOP) to efficiently process Markdown and HTML files into a structured static website.
+A Python-based Static Site Generator inspired by tools like *Hugo* and *Jekyll*. This project utilizes **recursion** and **Object-Oriented Programming** (OOP) to efficiently process raw content files such as Markdown into a structured static website (HTML, CSS).
 
 ## 🚀 Features
 ✔️ Parses Markdown into HTML.\
@@ -8,7 +8,7 @@ A Python-based Static Site Generator inspired by tools like *Hugo* and *Jekyll*.
 ✔️ Optimized for performance.
 
 ## 🛠 Technologies Used
-- Python 🐍
+- Python 🐍 
 - Object-Oriented Programming (OOP)
 - Recursion
 - Markdown & HTML
