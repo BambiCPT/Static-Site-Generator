@@ -18,7 +18,7 @@ A Python-based Static Site Generator inspired by tools like *Hugo* and *Jekyll*.
 <summary>To use this Static Site Generator, follow these steps:</summary>
 
 ### 1️⃣ Clone the repository:
-git clone https://github.com/BambiCPT/SSG.git \
+git clone https://github.com/BambiCPT/Static-Site-Generator.git \
 cd Static-Site-Generator
 
 ### 2️⃣ Run the script:
